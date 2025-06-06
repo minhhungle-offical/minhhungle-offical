@@ -44,15 +44,28 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 - Sử dụng **Bootstrap** cho responsive  
 - Xử lý query param để hiển thị dữ liệu động
 
-### 3. Serene Leaf – Landing Page *(hợp tác cùng ChatGPT)*  
-[sereneleaf.vercel.app](https://sereneleaf.vercel.app/)  
-- Dựng layout sản phẩm thiên nhiên bằng **Next.js + Tailwind CSS**  
-- Responsive đẹp, nhẹ nhàng, áp dụng tư duy component hóa  
 
-### 4. Website Chùa Diệu Pháp Bình Thạnh *(hợp tác cùng ChatGPT)*  
-[chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app/)  
-- Website giới thiệu chùa, có ảnh, thông tin hoạt động  
-- Dùng Next.js, Tailwind CSS, thiết kế chuẩn, dễ tra cứu  
+### 3. Serene Leaf – Landing Page và Admin Dashboard (hợp tác cùng ChatGPT)  
+🌐 [sereneleaf.vercel.app](https://sereneleaf.vercel.app)  
+🛠️ [admin-sereneleaf.vercel.app](https://admin-sereneleaf.vercel.app/)  
+🔗 API: [https://serene-leaf-server-rmf4.onrender.com](https://serene-leaf-server-rmf4.onrender.com)
+
+- Dựng layout sản phẩm thiên nhiên bằng **Next.js** kết hợp **Material UI (MUI)**  
+- Thiết kế responsive đẹp, nhẹ nhàng, áp dụng tư duy component hóa để tái sử dụng code hiệu quả  
+- Backend phát triển bằng **Node.js** và **Express** với cơ sở dữ liệu **MongoDB**  
+- Xây dựng **Admin Dashboard** sử dụng **ReactJS** và **Material UI (MUI)** để quản lý nội dung và dữ liệu sản phẩm  
+- API được triển khai trên nền tảng Render để phục vụ frontend và admin 
+
+### 4. Website Chùa Diệu Pháp Bình Thạnh – Landing Page và Admin Dashboard (hợp tác cùng ChatGPT)  
+🌐 [chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app/)  
+🛠️ [chua-dieu-phap-admin.vercel.app](https://chua-dieu-phap-admin.vercel.app/)  
+🔗 API: [https://chua-dieu-phap-server-ismx.onrender.com](https://chua-dieu-phap-server-ismx.onrender.com)
+
+- Giao diện người dùng (Landing Page) phát triển bằng **Next.js** và **Material UI (MUI)**  
+- Thiết kế hướng đến sự trang nghiêm, nhẹ nhàng, dễ sử dụng cho mọi đối tượng  
+- Trang quản trị (Admin) được xây dựng với **ReactJS** và **MUI**, cho phép thêm/sửa/xoá nội dung linh hoạt  
+- Backend phát triển bằng **Node.js + Express**, sử dụng **MongoDB** làm cơ sở dữ liệu chính  
+- API triển khai trên nền tảng Render, kết nối giữa frontend và admin hiệu quả 
 
 ---
 
@@ -62,6 +75,3 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 
 ---
 
-## Ngôn ngữ  
-- Tiếng Việt: Bản ngữ  
-- Tiếng Anh: Cơ bản, đọc hiểu tài liệu kỹ thuật có hỗ trợ  
