@@ -58,8 +58,6 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 ### 🌐 Website  
 🔗 [https://postui.vercel.app/?_page=1&_limit=6](https://postui.vercel.app/?_page=1&_limit=6)
 
----
-
 ### 🛠️ Công nghệ sử dụng
 
 - **HTML5**, **CSS3** – Thiết kế giao diện người dùng chuẩn web.
@@ -67,15 +65,11 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 - **JavaScript thuần (Vanilla JS)** – Không dùng framework, tự xử lý toàn bộ logic CRUD, phân trang, filter.
 - **REST API** – Kết nối đến API công khai: `https://js-post-api.herokuapp.com/api`
 
----
-
 ### 📄 Các trang chính
 
 - `index.html` – Danh sách bài viết (Post List), hỗ trợ phân trang, tìm kiếm theo tiêu đề.
 - `add-edit-post.html` – Thêm/Sửa bài viết, có form động xử lý logic tùy theo context (add hoặc edit).
 - `post-detail.html` – Trang chi tiết bài viết, hiển thị đầy đủ thông tin.
-
----
 
 ### ⚙️ Tính năng nổi bật
 
@@ -86,8 +80,6 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 - **Tái sử dụng component** – Code chia nhỏ theo chức năng, dễ bảo trì và mở rộng.
 - **Xử lý lỗi người dùng & API** – Kiểm tra đầu vào và xử lý phản hồi từ server rõ ràng.
 
----
-
 ### 🎯 Kết quả đạt được
 
 - Dự án hoàn chỉnh thể hiện khả năng code frontend mà không cần framework.
@@ -95,14 +87,12 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 - Giao diện trực quan, dễ dùng, phản hồi nhanh.
 - Có thể dùng làm template cơ bản cho CMS mini hoặc blog cá nhân.
 
----
-
 ### 🔗 GitHub
 
 📂 [https://github.com/minhhungle-offical/post-ui](https://github.com/minhhungle-offical/post-ui)
 
 ---
-
+---
 
 ## 🌿 3. Serene Leaf – Landing Page & Admin Panel
 
