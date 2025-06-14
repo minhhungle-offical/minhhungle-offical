@@ -53,14 +53,54 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 
 ---
 
-### 📦 2. Post UI  
+## 2. Post UI – Ứng dụng Blog CRUD
+
+### 🌐 Website  
 🔗 [https://postui.vercel.app/?_page=1&_limit=6](https://postui.vercel.app/?_page=1&_limit=6)
 
-- Dự án luyện tập xử lý logic phân trang và query string.
-- Sử dụng Bootstrap cho responsive và layout nhanh.
-- Đọc dữ liệu từ API giả định, điều hướng phân trang qua URL param.
+---
+
+### 🛠️ Công nghệ sử dụng
+
+- **HTML5**, **CSS3** – Thiết kế giao diện người dùng chuẩn web.
+- **Bootstrap 5** – Hỗ trợ responsive, layout lưới hiện đại, dễ sử dụng.
+- **JavaScript thuần (Vanilla JS)** – Không dùng framework, tự xử lý toàn bộ logic CRUD, phân trang, filter.
+- **REST API** – Kết nối đến API công khai: `https://js-post-api.herokuapp.com/api`
 
 ---
+
+### 📄 Các trang chính
+
+- `index.html` – Danh sách bài viết (Post List), hỗ trợ phân trang, tìm kiếm theo tiêu đề.
+- `add-edit-post.html` – Thêm/Sửa bài viết, có form động xử lý logic tùy theo context (add hoặc edit).
+- `post-detail.html` – Trang chi tiết bài viết, hiển thị đầy đủ thông tin.
+
+---
+
+### ⚙️ Tính năng nổi bật
+
+- **CRUD đầy đủ** – Tạo, đọc, cập nhật và xóa bài viết bằng JavaScript thuần.
+- **Phân trang động** – Tự động cập nhật URL `_page`, `_limit`, fetch dữ liệu theo trang.
+- **Lọc bài viết theo tiêu đề** – Tìm kiếm nhanh chóng với từ khóa.
+- **Responsive Design** – Tối ưu hiển thị trên mobile, tablet, desktop.
+- **Tái sử dụng component** – Code chia nhỏ theo chức năng, dễ bảo trì và mở rộng.
+- **Xử lý lỗi người dùng & API** – Kiểm tra đầu vào và xử lý phản hồi từ server rõ ràng.
+
+---
+
+### 🎯 Kết quả đạt được
+
+- Dự án hoàn chỉnh thể hiện khả năng code frontend mà không cần framework.
+- Rèn luyện tư duy xử lý logic, phân trang, tương tác API REST.
+- Giao diện trực quan, dễ dùng, phản hồi nhanh.
+- Có thể dùng làm template cơ bản cho CMS mini hoặc blog cá nhân.
+
+---
+
+### 🔗 GitHub
+
+📂 [https://github.com/minhhungle-offical/post-ui](https://github.com/minhhungle-offical/post-ui)
+
 
 ### 🍃 3. Serene Leaf – Landing Page & Admin Dashboard  
 🌐 [Landing Page](https://sereneleaf.vercel.app)  
