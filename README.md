@@ -33,7 +33,7 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 
 ## Dự án thực tế
 
-### 🧑‍💻 Project: Food Blog
+### 2. Food Blog
 
 ### 🌐 Website
 
