@@ -38,7 +38,6 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 ### 🌐 Website
 
 🔗 [https://foodblogweb.vercel.app/](https://foodblogweb.vercel.app/)
-🔗 [https://github.com/minhhungle-offical/food-blog](https://github.com/minhhungle-offical/food-blog)
 
 ### 🛠️ Công nghệ sử dụng
 
@@ -73,7 +72,7 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 
 ### 🔗 GitHub
 
-📂 [https://github.com/minhhungle-offical](https://github.com/minhhungle-offical)
+📂 [https://github.com/minhhungle-offical/food-blog](https://github.com/minhhungle-offical/food-blog)
 
 
 ### 2. Post UI  
