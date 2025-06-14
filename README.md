@@ -14,7 +14,8 @@ Portfolio: [foodblogweb.vercel.app](https://foodblogweb.vercel.app/), [postui.ve
 ## Tóm tắt nghề nghiệp  
 Frontend Developer với nền tảng vững về HTML, CSS, JavaScript, ReactJS và Next.js.  
 Có kinh nghiệm triển khai nhiều dự án thực tế từ cá nhân đến hợp tác.  
-Thành thạo các thư viện hiện đại như Redux, React Query, React Hook Form, MUI, Bootstrap và Tailwind CSS.  
+Thành thạo các thư viện hiện đại như Redux, React Query, React Hook Form
+Sử dụng tốt các thư viện UI như: MUI, Bootstrap và Tailwind CSS... 
 Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải nghiệm người dùng.
 
 ---
@@ -32,11 +33,47 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 
 ## Dự án thực tế
 
-### 1. Food Blog Web  
-[foodblogweb.vercel.app](https://foodblogweb.vercel.app/)  
-- Website blog ẩm thực tự thiết kế bằng **HTML/CSS thuần 100%**  
-- Layout rõ ràng, hình ảnh đẹp, responsive tự tay làm  
-- Tự thực hiện toàn bộ từ đầu, không dùng thư viện ngoài
+### 🧑‍💻 Project: Food Blog
+
+### 🌐 Website
+
+🔗 [https://foodblogweb.vercel.app/](https://foodblogweb.vercel.app/)
+
+### 🛠️ Công nghệ sử dụng
+
+- **HTML5**, **CSS3** – Tự code toàn bộ giao diện, không sử dụng framework.
+- **Responsive Design** – Tự xây dựng hệ thống lưới (grid system), tương thích mọi thiết bị.
+- **Font Awesome** – Hệ thống icon đẹp mắt, dễ nhận diện.
+- **Google Fonts** – Dùng font "Poppins" mang lại cảm giác hiện đại.
+- **AOS (Animate On Scroll)** – Tạo hiệu ứng cuộn mượt mà, chuyên nghiệp.
+- **SEO-Friendly Meta Tags** – Tối ưu các thẻ `meta`, `og:`, `twitter:` để thân thiện SEO và chia sẻ mạng xã hội.
+- **Javascript thuần (main.js)** – Xử lý toggle menu và scroll to top.
+
+---
+
+### 📄 Các trang chính
+
+- `index.html` – Trang chủ
+- `recipes.html` – Danh sách công thức nấu ăn
+- `recipe-detail.html` – Trang chi tiết món ăn (định hướng nâng cấp)
+- `about.html` – Giới thiệu về blog
+- `contact.html` – Liên hệ
+
+---
+
+### 🎯 Kết quả đạt được
+
+- Thiết kế hiện đại, chuyên nghiệp dù chỉ dùng HTML/CSS thuần.
+- Giao diện responsive hoàn chỉnh mà không cần dùng thư viện ngoài.
+- Dễ tái sử dụng như một template giới thiệu dự án frontend.
+- Tự xây dựng hệ thống lưới và chia layout logic, rõ ràng.
+
+---
+
+### 🔗 GitHub
+
+📂 [https://github.com/minhhungle-offical](https://github.com/minhhungle-offical)
+
 
 ### 2. Post UI  
 [postui.vercel.app](https://postui.vercel.app/?_page=1&_limit=6)  
