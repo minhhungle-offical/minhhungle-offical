@@ -101,28 +101,55 @@ Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailw
 
 📂 [https://github.com/minhhungle-offical/post-ui](https://github.com/minhhungle-offical/post-ui)
 
+## 🌿 3. Serene Leaf – Landing Page & Admin Panel
 
-### 🍃 3. Serene Leaf – Landing Page & Admin Dashboard  
-🌐 [Landing Page](https://sereneleaf.vercel.app)  
-🛠️ [Admin Dashboard](https://admin-sereneleaf.vercel.app/)  
-🔗 API: [https://serene-leaf-server-rmf4.onrender.com](https://serene-leaf-server-rmf4.onrender.com)
+🔗 **Landing Page:** [https://sereneleaf.vercel.app](https://sereneleaf.vercel.app)  
+🔗 **Admin Dashboard:** [https://admin-sereneleaf.vercel.app](https://admin-sereneleaf.vercel.app)  
+📦 **GitHub Repo:** [github.com/minhhungle-offical/sereneleaf](https://github.com/minhhungle-offical/sereneleaf)  
+📡 **API:** [https://serene-leaf-server-rmf4.onrender.com](https://serene-leaf-server-rmf4.onrender.com)
 
-- Landing page xây dựng với Next.js + Material UI, responsive đẹp và hiện đại.
-- Admin Dashboard dùng ReactJS + MUI để quản lý sản phẩm và nội dung.
-- Backend triển khai bằng Node.js + Express, lưu trữ bằng MongoDB.
-- API hoạt động trên nền tảng Render, hỗ trợ cả frontend lẫn admin.
+### 🚀 Công nghệ sử dụng
+- **Frontend (Landing Page):** Next.js + Material UI (MUI)
+- **Frontend (Admin):** ReactJS + Material UI
+- **Backend:** Node.js + Express + MongoDB (Mongoose)
+- **Triển khai:** Vercel (frontend), Render (backend)
+
+### 🎯 Tính năng chính
+- Trang Landing Page giới thiệu sản phẩm (sạch đẹp, hiện đại)
+- Trang quản trị Admin với chức năng:
+  - Thêm / sửa / xoá sản phẩm
+  - Upload hình ảnh sản phẩm (Cloudinary)
+  - Quản lý danh mục, trạng thái sản phẩm
+- Giao diện responsive 100% trên mọi thiết bị
+- UI đồng nhất nhờ Material UI, đảm bảo UX mượt mà
 
 ---
 
-### 🏯 4. Chùa Diệu Pháp Bình Thạnh – Landing Page & Admin  
-🌐 [Landing Page](https://chuadieuphapbinhthanh.vercel.app)  
-🛠️ [Admin Dashboard](https://chua-dieu-phap-admin.vercel.app)  
-🔗 API: [https://chua-dieu-phap-server-ismx.onrender.com](https://chua-dieu-phap-server-ismx.onrender.com)
+## 🏯 4. Chùa Diệu Pháp Bình Thạnh – Website Phật giáo
 
-- Giao diện người dùng phát triển bằng Next.js + Material UI, mang phong cách trang nghiêm và nhẹ nhàng.
-- Admin Dashboard cho phép thêm/sửa/xoá nội dung linh hoạt, sử dụng ReactJS + MUI.
-- Backend viết bằng Node.js + Express, lưu trữ dữ liệu với MongoDB.
-- API triển khai trên Render, kết nối hiệu quả với cả frontend và admin.
+🔗 **Landing Page:** [https://chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app)  
+🔗 **Admin Dashboard:** [https://chua-dieu-phap-admin.vercel.app](https://chua-dieu-phap-admin.vercel.app)  
+📦 **GitHub Repo:** [github.com/minhhungle-offical/chua-dieu-phap](https://github.com/minhhungle-offical/chua-dieu-phap)  
+📡 **API:** [https://chua-dieu-phap-server-ismx.onrender.com](https://chua-dieu-phap-server-ismx.onrender.com)
+
+### 🚀 Công nghệ sử dụng
+- **Frontend (Landing Page):** Next.js + Material UI (MUI)
+- **Frontend (Admin):** ReactJS + Material UI
+- **Backend:** Node.js + Express + MongoDB (Mongoose)
+- **Triển khai:** Vercel (frontend), Render (backend)
+
+### 🎯 Tính năng chính
+- Website giới thiệu chùa, chương trình tu học và bài viết Phật pháp
+- Form liên hệ gửi email tự động
+- Trang Admin riêng biệt quản lý nội dung:
+  - Quản lý bài viết: thêm, chỉnh sửa, xoá
+  - Upload hình ảnh (Cloudinary)
+  - Giao diện quản trị rõ ràng, trực quan
+- Giao diện trang nghiêm, nhẹ nhàng, tối ưu trải nghiệm người dùng
+
+---
+
+✅ **Cả hai dự án đều sử dụng hoàn toàn Material UI, không sử dụng Tailwind CSS.**
 
 ---
 
