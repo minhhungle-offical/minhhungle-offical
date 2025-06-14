@@ -2,25 +2,30 @@
 
 # LÊ MINH HÙNG  
 **Frontend Developer (ReactJS | Next.js | TypeScript)**  
-Ngày sinh: 15/07/1990  
-TP. Hồ Chí Minh, Việt Nam  
-SĐT: 0989 830 760  
-Email: minhhungle.offical@gmail.com  
-GitHub: [github.com/minhhungle-offical](https://github.com/minhhungle-offical)  
-Portfolio: [foodblogweb.vercel.app](https://foodblogweb.vercel.app/), [postui.vercel.app](https://postui.vercel.app/?_page=1&_limit=6), [chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app), [sereneleaf.vercel.app](https://sereneleaf.vercel.app/)
+📅 Ngày sinh: 15/07/1990  
+📍 TP. Hồ Chí Minh, Việt Nam  
+📞 0989 830 760  
+📧 minhhungle.offical@gmail.com  
+💻 GitHub: [github.com/minhhungle-offical](https://github.com/minhhungle-offical)  
+🌐 Portfolio:  
+[foodblogweb.vercel.app](https://foodblogweb.vercel.app/) |  
+[postui.vercel.app](https://postui.vercel.app/?_page=1&_limit=6) |  
+[sereneleaf.vercel.app](https://sereneleaf.vercel.app/) |  
+[chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app)
 
 ---
 
-## Tóm tắt nghề nghiệp  
-Frontend Developer với nền tảng vững về HTML, CSS, JavaScript, ReactJS và Next.js.  
+## 🧾 Tóm tắt nghề nghiệp  
+Frontend Developer với nền tảng vững chắc về HTML, CSS, JavaScript, ReactJS và Next.js.  
 Có kinh nghiệm triển khai nhiều dự án thực tế từ cá nhân đến hợp tác.  
-Thành thạo các thư viện hiện đại như Redux, React Query, React Hook Form
-Sử dụng tốt các thư viện UI như: MUI, Bootstrap và Tailwind CSS... 
-Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải nghiệm người dùng.
+Thành thạo các thư viện hiện đại như Redux, React Query, React Hook Form.  
+Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailwind CSS.  
+Ưu tiên viết code sạch, có tư duy hàm và tối ưu trải nghiệm người dùng.
 
 ---
 
-## Kỹ năng chuyên môn  
+## 🛠️ Kỹ năng chuyên môn
+
 - **Ngôn ngữ:** HTML, CSS, JavaScript, TypeScript  
 - **Framework:** ReactJS, Next.js (Pages Router)  
 - **State Management:** Redux Toolkit, React Query  
@@ -31,85 +36,59 @@ Yêu thích code gọn gàng, tư duy hàm, và thiết kế UI tối ưu trải
 
 ---
 
-## Dự án thực tế
+## 📌 Dự án thực tế
 
-### 1. Food Blog
+### 🎯 1. Food Blog  
+🔗 [https://foodblogweb.vercel.app/](https://foodblogweb.vercel.app/)  
+📂 [GitHub Repo](https://github.com/minhhungle-offical/food-blog)
 
-### 🌐 Website
+- Dự án cá nhân code tay toàn bộ bằng HTML & CSS thuần, không dùng framework.
+- Thiết kế responsive bằng hệ thống grid tự xây dựng.
+- Tích hợp hiệu ứng cuộn bằng AOS và tối ưu SEO với các thẻ `meta`, `og:`, `twitter:`.
+- JavaScript thuần xử lý toggle menu, scroll to top.
+- Có thể tái sử dụng làm template frontend.
 
-🔗 [https://foodblogweb.vercel.app/](https://foodblogweb.vercel.app/)
-
-### 🛠️ Công nghệ sử dụng
-
-- **HTML5**, **CSS3** – Tự code toàn bộ giao diện, không sử dụng framework.
-- **Responsive Design** – Tự xây dựng hệ thống lưới (grid system), tương thích mọi thiết bị.
-- **Font Awesome** – Hệ thống icon đẹp mắt, dễ nhận diện.
-- **Google Fonts** – Dùng font "Poppins" mang lại cảm giác hiện đại.
-- **AOS (Animate On Scroll)** – Tạo hiệu ứng cuộn mượt mà, chuyên nghiệp.
-- **SEO-Friendly Meta Tags** – Tối ưu các thẻ `meta`, `og:`, `twitter:` để thân thiện SEO và chia sẻ mạng xã hội.
-- **Javascript thuần (main.js)** – Xử lý toggle menu và scroll to top.
+📄 Các trang chính:
+`index.html`, `recipes.html`, `recipe-detail.html`, `about.html`, `contact.html`
 
 ---
 
-### 📄 Các trang chính
+### 📦 2. Post UI  
+🔗 [https://postui.vercel.app/?_page=1&_limit=6](https://postui.vercel.app/?_page=1&_limit=6)
 
-- `index.html` – Trang chủ
-- `recipes.html` – Danh sách công thức nấu ăn
-- `recipe-detail.html` – Trang chi tiết món ăn (định hướng nâng cấp)
-- `about.html` – Giới thiệu về blog
-- `contact.html` – Liên hệ
-
----
-
-### 🎯 Kết quả đạt được
-
-- Thiết kế hiện đại, chuyên nghiệp dù chỉ dùng HTML/CSS thuần.
-- Giao diện responsive hoàn chỉnh mà không cần dùng thư viện ngoài.
-- Dễ tái sử dụng như một template giới thiệu dự án frontend.
-- Tự xây dựng hệ thống lưới và chia layout logic, rõ ràng.
+- Dự án luyện tập xử lý logic phân trang và query string.
+- Sử dụng Bootstrap cho responsive và layout nhanh.
+- Đọc dữ liệu từ API giả định, điều hướng phân trang qua URL param.
 
 ---
 
-### 🔗 GitHub
-
-📂 [https://github.com/minhhungle-offical/food-blog](https://github.com/minhhungle-offical/food-blog)
-
---
-
-### 2. Post UI  
-[postui.vercel.app](https://postui.vercel.app/?_page=1&_limit=6)  
-- Dự án luyện tập xử lý logic JavaScript và phân trang  
-- Sử dụng **Bootstrap** cho responsive  
-- Xử lý query param để hiển thị dữ liệu động
-
-
-### 3. Serene Leaf – Landing Page và Admin Dashboard (hợp tác cùng ChatGPT)  
-🌐 [sereneleaf.vercel.app](https://sereneleaf.vercel.app)  
-🛠️ [admin-sereneleaf.vercel.app](https://admin-sereneleaf.vercel.app/)  
+### 🍃 3. Serene Leaf – Landing Page & Admin Dashboard  
+🌐 [Landing Page](https://sereneleaf.vercel.app)  
+🛠️ [Admin Dashboard](https://admin-sereneleaf.vercel.app/)  
 🔗 API: [https://serene-leaf-server-rmf4.onrender.com](https://serene-leaf-server-rmf4.onrender.com)
 
-- Dựng layout sản phẩm thiên nhiên bằng **Next.js** kết hợp **Material UI (MUI)**  
-- Thiết kế responsive đẹp, nhẹ nhàng, áp dụng tư duy component hóa để tái sử dụng code hiệu quả  
-- Backend phát triển bằng **Node.js** và **Express** với cơ sở dữ liệu **MongoDB**  
-- Xây dựng **Admin Dashboard** sử dụng **ReactJS** và **Material UI (MUI)** để quản lý nội dung và dữ liệu sản phẩm  
-- API được triển khai trên nền tảng Render để phục vụ frontend và admin 
+- Landing page xây dựng với Next.js + Material UI, responsive đẹp và hiện đại.
+- Admin Dashboard dùng ReactJS + MUI để quản lý sản phẩm và nội dung.
+- Backend triển khai bằng Node.js + Express, lưu trữ bằng MongoDB.
+- API hoạt động trên nền tảng Render, hỗ trợ cả frontend lẫn admin.
 
-### 4. Website Chùa Diệu Pháp Bình Thạnh – Landing Page và Admin Dashboard (hợp tác cùng ChatGPT)  
-🌐 [chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app/)  
-🛠️ [chua-dieu-phap-admin.vercel.app](https://chua-dieu-phap-admin.vercel.app/)  
+---
+
+### 🏯 4. Chùa Diệu Pháp Bình Thạnh – Landing Page & Admin  
+🌐 [Landing Page](https://chuadieuphapbinhthanh.vercel.app)  
+🛠️ [Admin Dashboard](https://chua-dieu-phap-admin.vercel.app)  
 🔗 API: [https://chua-dieu-phap-server-ismx.onrender.com](https://chua-dieu-phap-server-ismx.onrender.com)
 
-- Giao diện người dùng (Landing Page) phát triển bằng **Next.js** và **Material UI (MUI)**  
-- Thiết kế hướng đến sự trang nghiêm, nhẹ nhàng, dễ sử dụng cho mọi đối tượng  
-- Trang quản trị (Admin) được xây dựng với **ReactJS** và **MUI**, cho phép thêm/sửa/xoá nội dung linh hoạt  
-- Backend phát triển bằng **Node.js + Express**, sử dụng **MongoDB** làm cơ sở dữ liệu chính  
-- API triển khai trên nền tảng Render, kết nối giữa frontend và admin hiệu quả 
+- Giao diện người dùng phát triển bằng Next.js + Material UI, mang phong cách trang nghiêm và nhẹ nhàng.
+- Admin Dashboard cho phép thêm/sửa/xoá nội dung linh hoạt, sử dụng ReactJS + MUI.
+- Backend viết bằng Node.js + Express, lưu trữ dữ liệu với MongoDB.
+- API triển khai trên Render, kết nối hiệu quả với cả frontend và admin.
 
 ---
 
-## Học vấn  
-- Tự học và thực hành thông qua dự án thực tế  
-- Có nền tảng vững chắc về frontend hiện đại  
+## 🎓 Học vấn
+
+- Tự học thông qua khóa học thực tế, tài liệu nước ngoài và hướng dẫn của ChatGPT.
+- Có nền tảng vững chắc về frontend hiện đại, tư duy thiết kế và tối ưu UI/UX.
 
 ---
-
