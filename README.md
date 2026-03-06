@@ -1,153 +1,455 @@
 ![Easy Frontend banner](https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80)
 
-# LÊ MINH HÙNG  
-**Frontend Developer (ReactJS | Next.js | TypeScript)**  
-📅 Ngày sinh: 15/07/1990  
-📍 TP. Hồ Chí Minh, Việt Nam  
-📞 0989 830 760  
-📧 minhhungle.offical@gmail.com  
-💻 GitHub: [github.com/minhhungle-offical](https://github.com/minhhungle-offical)  
-🌐 Portfolio:  
-[foodblogweb.vercel.app](https://foodblogweb.vercel.app/) |  
-[postui.vercel.app](https://postui.vercel.app/?_page=1&_limit=6) |  
-[sereneleaf.vercel.app](https://sereneleaf.vercel.app/) |  
-[chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app)
+# Lê Minh Hùng
+
+**Full-Stack Developer**
+
+📍 Vietnam
+📧 [minhhungle.offical@gmail.com](mailto:minhhungle.offical@gmail.com)
+📞 +84 989 830 760
+🌐 GitHub: github.com/minhhungle-offical
+
+🌐 Live Projects:
+• chuadieuphapbinhloitrung.com.vn
+• eflux.vn
+• m.eflux.vn
+• hipfest.vn
 
 ---
 
-## 🧾 Tóm tắt nghề nghiệp  
-Frontend Developer với nền tảng vững chắc về HTML, CSS, JavaScript, ReactJS và Next.js.  
-Có kinh nghiệm triển khai nhiều dự án thực tế từ cá nhân đến hợp tác.  
-Thành thạo các thư viện hiện đại như Redux, React Query, React Hook Form.  
-Sử dụng tốt các thư viện UI phổ biến như MUI, Bootstrap và Tailwind CSS.  
-Ưu tiên viết code sạch, có tư duy hàm và tối ưu trải nghiệm người dùng.
+# Professional Summary
+
+Full-Stack Developer experienced in building and deploying **production-ready web applications** from system architecture design to backend development, database modeling, frontend implementation, and server deployment.
+
+Experienced with systems involving **real-time communication, online payments, geolocation services, and data-intensive applications**.
+
+**Core expertise**
+
+- Designing **3-tier web architecture (Frontend – Backend – Database)**
+- Building **RESTful APIs** with Node.js and Express.js
+- Developing modern frontend applications using **React and Next.js**
+- State management with **TanStack Query, Redux Toolkit, and Zustand**
+- Integrating **payment gateways, WebSocket real-time systems, and cloud storage**
+- Deploying production systems on **Linux VPS using PM2, Nginx, and SSL**
+- Designing and optimizing **MongoDB schemas and indexes**
 
 ---
 
-## 🛠️ Kỹ năng chuyên môn
+# Technical Skills
 
-- **Ngôn ngữ:** HTML, CSS, JavaScript, TypeScript  
-- **Framework:** ReactJS, Next.js (Pages Router)  
-- **State Management:** Redux Toolkit, React Query  
-- **Form:** React Hook Form  
-- **UI Framework:** Tailwind CSS, Material UI (MUI), Bootstrap  
-- **Kỹ thuật khác:** Functional Programming, Responsive Design, REST API integration  
-- **Công cụ:** Git, Vercel, Postman, VS Code  
+## Backend Development
 
----
+**Node.js / Express.js**
 
-## 📌 Dự án thực tế
+- RESTful API development
+- Middleware architecture
+- Error handling and request validation
+- Modular backend architecture
 
-### 🎯 1. Food Blog  
-🔗 [https://foodblogweb.vercel.app/](https://foodblogweb.vercel.app/)  
-📂 [GitHub Repo](https://github.com/minhhungle-offical/food-blog)
+**Authentication & Security**
 
-- Dự án cá nhân code tay toàn bộ bằng HTML & CSS thuần, không dùng framework.
-- Thiết kế responsive bằng hệ thống grid tự xây dựng.
-- Tích hợp hiệu ứng cuộn bằng AOS và tối ưu SEO với các thẻ `meta`, `og:`, `twitter:`.
-- JavaScript thuần xử lý toggle menu, scroll to top.
-- Có thể tái sử dụng làm template frontend.
+- JWT authentication
+- Email OTP verification
+- Password hashing with bcrypt
+- Rate limiting
+- CORS configuration
 
-📄 Các trang chính:
-`index.html`, `recipes.html`, `recipe-detail.html`, `about.html`, `contact.html`
+**Database**
 
----
+- MongoDB
+- Mongoose ODM
+- Schema design
+- Aggregation pipelines
+- Index optimization
+- Geospatial queries
 
-## 2. Post UI – Ứng dụng Blog CRUD
+**Payment Integration**
 
-### 🌐 Website  
-🔗 [https://postui.vercel.app/?_page=1&_limit=6](https://postui.vercel.app/?_page=1&_limit=6)
+- Sepay payment gateway
+- Webhook processing
+- Transaction handling
 
-### 🛠️ Công nghệ sử dụng
+**Realtime Systems**
 
-- **HTML5**, **CSS3** – Thiết kế giao diện người dùng chuẩn web.
-- **Bootstrap 5** – Hỗ trợ responsive, layout lưới hiện đại, dễ sử dụng.
-- **JavaScript thuần (Vanilla JS)** – Không dùng framework, tự xử lý toàn bộ logic CRUD, phân trang, filter.
-- **REST API** – Kết nối đến API công khai: `https://js-post-api.herokuapp.com/api`
+- Socket.io WebSocket
+- Event-driven updates
 
-### 📄 Các trang chính
+**File Upload & Media**
 
-- `index.html` – Danh sách bài viết (Post List), hỗ trợ phân trang, tìm kiếm theo tiêu đề.
-- `add-edit-post.html` – Thêm/Sửa bài viết, có form động xử lý logic tùy theo context (add hoặc edit).
-- `post-detail.html` – Trang chi tiết bài viết, hiển thị đầy đủ thông tin.
-
-### ⚙️ Tính năng nổi bật
-
-- **CRUD đầy đủ** – Tạo, đọc, cập nhật và xóa bài viết bằng JavaScript thuần.
-- **Phân trang động** – Tự động cập nhật URL `_page`, `_limit`, fetch dữ liệu theo trang.
-- **Lọc bài viết theo tiêu đề** – Tìm kiếm nhanh chóng với từ khóa.
-- **Responsive Design** – Tối ưu hiển thị trên mobile, tablet, desktop.
-- **Tái sử dụng component** – Code chia nhỏ theo chức năng, dễ bảo trì và mở rộng.
-- **Xử lý lỗi người dùng & API** – Kiểm tra đầu vào và xử lý phản hồi từ server rõ ràng.
-
-### 🎯 Kết quả đạt được
-
-- Dự án hoàn chỉnh thể hiện khả năng code frontend mà không cần framework.
-- Rèn luyện tư duy xử lý logic, phân trang, tương tác API REST.
-- Giao diện trực quan, dễ dùng, phản hồi nhanh.
-- Có thể dùng làm template cơ bản cho CMS mini hoặc blog cá nhân.
-
-### 🔗 GitHub
-
-📂 [https://github.com/minhhungle-offical/post-ui](https://github.com/minhhungle-offical/post-ui)
+- Multer
+- Cloudinary
+- Image processing with Sharp
 
 ---
 
-## 🌿 3. Serene Leaf – Landing Page & Admin Panel
+## Frontend Development
 
-🔗 **Landing Page:** [https://sereneleaf.vercel.app](https://sereneleaf.vercel.app)  
-🔗 **Admin Dashboard:** [https://admin-sereneleaf.vercel.app](https://admin-sereneleaf.vercel.app)  
-📦 **GitHub Repo:** [github.com/minhhungle-offical/sereneleaf](https://github.com/minhhungle-offical/sereneleaf)  
-📡 **API:** [https://serene-leaf-server-rmf4.onrender.com](https://serene-leaf-server-rmf4.onrender.com)
+**Frameworks**
 
-### 🚀 Công nghệ sử dụng
-- **Frontend (Landing Page):** Next.js + Material UI (MUI)
-- **Frontend (Admin):** ReactJS + Material UI
-- **Backend:** Node.js + Express + MongoDB (Mongoose)
-- **Triển khai:** Vercel (frontend), Render (backend)
+- React
+- Next.js
 
-### 🎯 Tính năng chính
-- Trang Landing Page giới thiệu sản phẩm (sạch đẹp, hiện đại)
-- Trang quản trị Admin với chức năng:
-  - Thêm / sửa / xoá sản phẩm
-  - Upload hình ảnh sản phẩm (Cloudinary)
-  - Quản lý danh mục, trạng thái sản phẩm
-- Giao diện responsive 100% trên mọi thiết bị
-- UI đồng nhất nhờ Material UI, đảm bảo UX mượt mà
+**UI Frameworks**
 
----
+- Tailwind CSS
+- Ant Design
+- Material UI
+- Bootstrap
 
-## 🏯 4. Chùa Diệu Pháp Bình Thạnh – Website Phật giáo
+**State Management**
 
-🔗 **Landing Page:** [https://chuadieuphapbinhthanh.vercel.app](https://chuadieuphapbinhthanh.vercel.app)  
-🔗 **Admin Dashboard:** [https://chua-dieu-phap-admin.vercel.app](https://chua-dieu-phap-admin.vercel.app)  
-📦 **GitHub Repo:** [github.com/minhhungle-offical/chua-dieu-phap](https://github.com/minhhungle-offical/chua-dieu-phap)  
-📡 **API:** [https://chua-dieu-phap-server-ismx.onrender.com](https://chua-dieu-phap-server-ismx.onrender.com)
+- TanStack Query
+- Redux Toolkit
+- Redux Thunk
+- Redux Saga
+- Zustand
 
-### 🚀 Công nghệ sử dụng
-- **Frontend (Landing Page):** Next.js + Material UI (MUI)
-- **Frontend (Admin):** ReactJS + Material UI
-- **Backend:** Node.js + Express + MongoDB (Mongoose)
-- **Triển khai:** Vercel (frontend), Render (backend)
+**Forms**
 
-### 🎯 Tính năng chính
-- Website giới thiệu chùa, chương trình tu học và bài viết Phật pháp
-- Form liên hệ gửi email tự động
-- Trang Admin riêng biệt quản lý nội dung:
-  - Quản lý bài viết: thêm, chỉnh sửa, xoá
-  - Upload hình ảnh (Cloudinary)
-  - Giao diện quản trị rõ ràng, trực quan
-- Giao diện trang nghiêm, nhẹ nhàng, tối ưu trải nghiệm người dùng
+- React Hook Form
+- Yup validation
+
+**Frontend Utilities**
+
+- Axios
+- Toast notifications
+- Animation libraries (AOS)
+- Responsive UI development
 
 ---
 
-✅ **Cả hai dự án đều sử dụng hoàn toàn Material UI, không sử dụng Tailwind CSS.**
+## DevOps & Deployment
+
+- Linux VPS server management
+- Process management with **PM2**
+- Reverse proxy configuration with **Nginx**
+- HTTPS setup using **Let's Encrypt**
+- Production builds for React and Next.js
+- Environment configuration
 
 ---
 
-## 🎓 Học vấn
+## Tools
 
-- Tự học thông qua khóa học thực tế, tài liệu nước ngoài và hướng dẫn của ChatGPT.
-- Có nền tảng vững chắc về frontend hiện đại, tư duy thiết kế và tối ưu UI/UX.
+- Git / GitHub
+- Postman
+- Visual Studio Code
+- Dayjs
+- Lodash
+- UUID
+- Validator
 
 ---
+
+# Projects
+
+---
+
+# Project 1 – Dieu Phap Pagoda Management System
+
+## Description
+
+A web platform supporting pagoda operations including a **public website for the community and an internal admin management system**.
+
+## System Architecture
+
+Admin Dashboard (React)
+Public Website (Next.js)
+Backend API (Express.js)
+Database (MongoDB)
+
+---
+
+## Key Features
+
+- Event management system
+- Online event registration
+- QR code check-in system
+- Costume management by size
+- Content management for articles and announcements
+- Contact form with email notifications
+- Role-based user management
+
+---
+
+## Technologies Used
+
+Admin Frontend
+
+- React
+- Ant Design
+- CKEditor
+
+Public Website
+
+- Next.js
+- Tailwind CSS
+
+Backend
+
+- Node.js
+- Express.js
+- JWT authentication
+
+Database
+
+- MongoDB
+- Mongoose
+
+Deployment
+
+- Linux VPS
+- PM2
+- Nginx
+- SSL with Let's Encrypt
+
+---
+
+## Results
+
+- System supports **600+ users**
+- Page load time under **2 seconds**
+- Admin dashboard manages all system content
+
+---
+
+# Project 2 – Electric Vehicle Charging Platform
+
+## Description
+
+A platform for managing electric vehicle charging stations including **customer application, admin dashboard, and backend infrastructure**.
+
+---
+
+## Mobile Application Features
+
+- Find nearby charging stations using maps
+- Start and stop charging sessions
+- Digital wallet management
+- Charging session history
+- Real-time notifications
+
+---
+
+## Admin Dashboard Features
+
+- User management
+- Charging station management
+- Charger device monitoring
+- Real-time charging session tracking
+- Payment transaction management
+- Revenue analytics
+
+---
+
+## Backend Features
+
+- Charging price calculation based on time and energy usage
+- Wallet system
+- Sepay payment webhook integration
+- Real-time updates via Socket.io
+- Geospatial queries for nearby station search
+
+---
+
+## Technologies Used
+
+Mobile App
+
+- React
+- Material UI
+- Leaflet Maps
+
+Admin Dashboard
+
+- React
+- Ant Design
+- Chart.js
+
+Backend
+
+- Node.js
+- Express.js
+- Socket.io
+
+Database
+
+- MongoDB
+
+Security
+
+- JWT authentication
+- OTP verification
+- RBAC authorization
+
+---
+
+## Results
+
+- System handles **50+ concurrent charging sessions**
+- Nearby station search response time under **200ms**
+
+---
+
+# Project 3 – HipFest Festival Management Platform
+
+**Status:** In development
+
+## Description
+
+A platform designed for managing music festivals including ticketing, artists, stages, vendors, and sponsors.
+
+---
+
+## Core Modules
+
+- Attendee management
+- Ticketing system
+- Stage management
+- Artist management
+- Vendor management
+- Sponsor management
+- Event schedule system
+
+---
+
+## Technologies
+
+Backend
+
+- Node.js
+- Express.js
+- MongoDB
+
+File Processing
+
+- Multer
+- Sharp
+
+Frontend (planned)
+
+- React
+- Next.js
+
+---
+
+# System Architecture
+
+## 3-Tier Architecture
+
+Frontend
+React / Next.js
+
+↓
+
+Backend API
+Node.js / Express.js
+
+↓
+
+Database
+MongoDB
+
+---
+
+## Database Design
+
+- Document-based data model
+- Indexed frequently queried fields
+- Schema-level validation
+- Relationships using ObjectId references
+
+---
+
+## Security
+
+- JWT authentication
+- OTP email verification
+- bcrypt password hashing
+- Rate limiting
+- HTTPS with SSL
+- Security headers
+
+---
+
+# Strengths
+
+**Production Experience**
+
+- Developed and deployed multiple real-world web systems
+- Experienced with full product lifecycle from design to deployment
+
+**Full-Stack Capability**
+
+- Backend: Node.js
+- Frontend: React / Next.js
+- Database: MongoDB
+
+**System Design**
+
+- API design
+- Database optimization
+- Real-time system architecture
+
+**System Integration**
+
+- Payment gateways
+- File storage services
+- Email services
+
+---
+
+# Technology Stack
+
+Backend
+
+- Node.js
+- Express.js
+
+Frontend
+
+- React
+- Next.js
+
+UI
+
+- Ant Design
+- Material UI
+- Tailwind CSS
+- Bootstrap
+
+Database
+
+- MongoDB
+
+State Management
+
+- TanStack Query
+- Redux Toolkit
+- Zustand
+
+Deployment
+
+- Linux VPS
+- PM2
+- Nginx
+- SSL
+
+---
+
+# Career Goals
+
+**Short-term**
+
+- Join a product development team
+- Improve backend architecture and system design skills
+
+**Mid-term**
+
+- Become a senior backend or full-stack engineer
+- Gain deeper experience with PostgreSQL and microservices
+
+**Long-term**
+
+- Build SaaS products or lead engineering teams
+
