@@ -221,7 +221,7 @@ A platform for managing electric vehicle charging stations including **customer 
 
 ---
 
-## Mobile Application Features
+## Mobile Web Features
 
 - Find nearby charging stations using maps
 - Start and stop charging sessions
@@ -254,7 +254,7 @@ A platform for managing electric vehicle charging stations including **customer 
 
 ## Technologies Used
 
-Mobile App
+Mobile Web
 
 - React
 - Material UI
